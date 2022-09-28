@@ -4,8 +4,11 @@ Latest Version
 
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application then:
-- for using analytics add the line implementation ‘com.devtodev:android-analytics:2.2.1’ into dependencies.
-- for using messaging add the line implementation ‘com.devtodev:android-messaging:2.2.1’ into dependencies.
+- for using analytics add the line 
+implementation ‘com.devtodev:android-analytics:2.2.1’
+- for using messaging add the line 
+implementation ‘com.devtodev:android-messaging:2.2.1’
+into dependencies.
 ```
 
 Getting Started
