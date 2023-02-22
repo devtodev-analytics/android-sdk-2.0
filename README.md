@@ -1,17 +1,17 @@
 Latest Version
 --------------
-##### _January 23, 2023_ - [v2.3.1](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
+##### _February 22, 2023_ - [v2.3.2](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
 
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application then:
 - for using analytics add the line 
-implementation ‘com.devtodev:android-analytics:2.3.1’
+implementation ‘com.devtodev:android-analytics:2.3.2’
 - for work with google services add the line 
 implementation ‘com.devtodev:android-google:1.0.0’
 - for work with huawei services add the line 
 implementation ‘com.devtodev:android-huawei:1.0.0’
 - for using messaging add the line 
-implementation ‘com.devtodev:android-messaging:2.3.1’
+implementation ‘com.devtodev:android-messaging:2.3.2’
 into dependencies.
 ```
 
