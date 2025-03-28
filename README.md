@@ -1,17 +1,19 @@
 Latest Version
 --------------
-##### _January 28, 2025_ - [v2.4.0-1.0.1](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
+##### _March 28, 2025_ - [v2.5.0](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
 
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application then:
 - for using analytics add the line 
-implementation ‘com.devtodev:android-analytics:2.4.0’
+implementation ‘com.devtodev:android-analytics:2.5.0’
 - for work with google services add the line 
 implementation ‘com.devtodev:android-google:1.0.1’
 - for work with huawei services add the line 
 implementation ‘com.devtodev:android-huawei:1.0.0’
 - for using messaging add the line 
-implementation ‘com.devtodev:android-messaging:2.4.0’
+implementation ‘com.devtodev:android-messaging:2.5.0’
+- for automatic tracking of payments and subscriptions
+implementation ‘com.devtodev:android-google-purchases:1.0.0’
 into dependencies.
 ```
 
@@ -23,6 +25,7 @@ Getting Started
 Full description of the integration process of devtodev SDK and all the accessible features can be found on the pages:
 - for DTDAnalytics, DTDGoogle, DTDHuawei [official devtodev documentation](https://docs.devtodev.com/integration/integration-of-sdk-v2/sdk-integration/android)
 - for DTDMessaging [official devtodev documentation](https://docs.devtodev.com/integration/integration-of-sdk-v2/push-notifications/android)
+- for DTDGooglePurchases [official devtodev documentation](https://docs.devtodev.com/integration/integration-of-sdk-v2/automatic-payment-tracking/google-play)
 
 ProGuard
 ---------------
