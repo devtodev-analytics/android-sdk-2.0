@@ -1,19 +1,19 @@
 Latest Version
 --------------
-##### _March 28, 2025_ - [v2.5.0](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
+##### _August 25, 2025_ - [v2.5.1](https://github.com/devtodev-analytics/android-sdk-2.0/releases/latest)
 
 ```
 If you use Gradle, please add mavenCentral() into gradle.build of your application then:
 - for using analytics add the line 
-implementation ‘com.devtodev:android-analytics:2.5.0’
+implementation ‘com.devtodev:android-analytics:2.5.1’
 - for work with google services add the line 
 implementation ‘com.devtodev:android-google:1.0.1’
 - for work with huawei services add the line 
 implementation ‘com.devtodev:android-huawei:1.0.0’
 - for using messaging add the line 
-implementation ‘com.devtodev:android-messaging:2.5.0’
+implementation ‘com.devtodev:android-messaging:2.5.1’
 - for automatic tracking of payments and subscriptions
-implementation ‘com.devtodev:android-google-purchases:1.0.0’
+implementation ‘com.devtodev:android-google-purchases:1.0.1’
 into dependencies.
 ```
 
